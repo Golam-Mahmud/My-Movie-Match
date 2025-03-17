@@ -28,18 +28,6 @@ This project builds a **Movie Recommendation System** using TMDB ratings and IMD
 git clone <repository-url>
 cd <repository-name>
 
-
-## 📌 Usage
-```python
-# Import recommendation functions
-from recommender import get_top_movies, recommend_movies
-
-# Get Top 250 Movies
-get_top_movies()
-
-# Get recommendations for a user or movie
-recommend_movies(movie_title="Inception")
-
 ## 🔥 Future Enhancements
 - ✅ Add **deep learning** models (e.g., Autoencoders)
 - ✅ Improve user-based recommendations
