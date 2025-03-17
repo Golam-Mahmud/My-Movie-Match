@@ -28,9 +28,6 @@ This project builds a **Movie Recommendation System** using TMDB ratings and IMD
 git clone <repository-url>
 cd <repository-name>
 
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ## 📌 Usage
 ```python
