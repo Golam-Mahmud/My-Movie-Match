@@ -10,7 +10,7 @@ This project builds a **Movie Recommendation System** using TMDB ratings and IMD
 - **Hybrid System**: Combines content-based and collaborative approaches for better recommendations.
 
 ## 📊 Methodology
-1. **Dataset**: Movies and ratings are sourced from **TMDB (The Movie Database) API** and can be accessed from [Google Drive](https://drive.google.com/drive/folders/1kiVq_QiNg15m8MyhSVqlhPtoo3Ph8HcU).
+1. **Dataset**: Movies and ratings are sourced from **TMDB (The Movie Database) API** and can be accessed from [Google Drive](https://drive.google.com/drive/folders/1LRzftqk_h5gqNg2QJwahgaMibkgQBiQn).
 2. **Weighted Rating Calculation**: Based on IMDb’s **formula** to rank movies.
 3. **Content-Based Recommendation**:
    - One model uses **overviews & taglines**.
